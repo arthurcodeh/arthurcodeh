@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Arthur</h2>
+<h2 align="left">Salut 👋! Je m'appelle Arthur</h2>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Salut tout le monde !!</p>
 
 ###
 
