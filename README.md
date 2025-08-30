@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img widht="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo" />
 </div>
 
 ###
@@ -39,9 +41,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="30" alt="jetbrains logo"  />
+  <img src="https://cdn.simpleicons.org/jetbrains/FFFFFF" height="30" alt="jetbrains logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="30" alt="notion logo"  />
 </div>
 
 ###
