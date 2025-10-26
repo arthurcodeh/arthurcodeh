@@ -6,10 +6,6 @@
 
 <p align="left">Je suis passionné par le développoment web (je suis encore étudiant)</p>
 
-###
-<h2 align="left">Mes trophés</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthurcodeh&theme=onedark" alt="arthurcodeh" /></a> </p>
-
 
 <h2 align="left">Langues et outils :</h2>
 
