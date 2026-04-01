@@ -80,19 +80,3 @@ Je suis **Arthur**, un étudiant motivé et passionné par :
   </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurcodeh&show_icons=true&theme=radical&commits_year=2025)
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcodeh&layout=compact&theme=tokyonight&hide_border=true"
-  height="140"
-/>
-
-</div>
