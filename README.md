@@ -20,11 +20,6 @@
 <img src="https://img.shields.io/badge/Mobile--First-Responsive-06b6d4?style=for-the-badge&logo=responsively&logoColor=white" />
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TON-PSEUDO&label=Visiteurs&color=1d4ed8&style=flat-square" alt="Compteur de visites" />
-<img src="https://img.shields.io/github/followers/TON-PSEUDO?label=Followers&style=flat-square&color=06b6d4" />
-<img src="https://img.shields.io/github/stars/TON-PSEUDO?label=Stars&style=flat-square&color=1d4ed8" />
-
 </div>
 
 <br/>
