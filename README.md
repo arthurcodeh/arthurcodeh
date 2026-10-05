@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1200&color=3FA9F5&center=true&vCenter=true&width=700&lines=Arthu+D;Étudiant+en+Développement+Web;Passionné+par+les+Applications+Web;Angular+%7C+Frontend+%7C+Backend" />
+<!-- BANNIÈRE : nom + fond dégradé -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=280&section=header&text=Arthur%20D&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Étudiant%20en%20Développement%20Web&descSize=22&descAlignY=58&animation=fadeIn" alt="Arthur D - bannière" />
 
-<br/><br/>
+<!-- TEXTE ANIMÉ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3FA9F5&center=true&vCenter=true&width=700&lines=Arthur+D;Étudiant+en+Développement+Web;Passionné+par+les+applications+web;Angular+%7C+Frontend+%7C+Backend" alt="Texte animé" />-->
 
-<p>
-🎓 Étudiant en informatique • 💡 Développement web moderne • 📱 Mobile-first
-</p>
+<br/>
+
+🎓 Étudiant en informatique &nbsp;•&nbsp; 💡 Développement web moderne &nbsp;•&nbsp; 📱 Mobile-first
 
 </div>
 
 ---
 
-<!-- DASHBOARD -->
 <table width="100%">
   <tr>
 
@@ -22,61 +23,63 @@
 ## 👋 À propos de moi
 
 Je suis **Arthur**, un étudiant motivé et passionné par :
-- 🖥 Le **développement web moderne**, propre et structuré.
-- 🌟 Apprendre et appliquer les dernières technologies pour résoudre des problèmes réels.
 
-🎯 **Éléments clés en quelques mots :**
-- 🎓 Étudiant en informatique.
-- 📱 Design orienté **mobile-first** et responsive.
-- 🚀 Combinaison entre **design d'interface (UI)** et optimisation back-end.
-- 🛠 Projets : scolaires, personnels et expérimentations variées.
+- 🖥 Le **développement web moderne**, propre et structuré
+- 🌟 L'apprentissage des dernières technologies pour résoudre des problèmes réels
 
-<br/>
+🎯 **En quelques mots :**
+
+- 🎓 Étudiant en informatique
+- 📱 Design **mobile-first** et responsive
+- 🚀 Alliance entre **design d'interface (UI)** et optimisation back-end
+- 🛠 Projets scolaires, personnels et expérimentations variées
 
 ### 🌟 Ce que je fais
 
 - **Applications Frontend** : Angular (standalone, guards, gestion de rôles)
-- **Sécurité** : Authentification, gestion d'accès, sécurité des API
-- **Dashboards & Panels** : Développement d'interfaces orientées données
-- **Backend & BDD** : Conception d'APIs REST et maintenance de bases MySQL
-
-<br/>
+- **Sécurité** : authentification, gestion d'accès, sécurisation des API
+- **Dashboards & panels** : interfaces orientées données
+- **Backend & BDD** : conception d'APIs REST et maintenance de bases MySQL
 
   </td>
 
   <!-- COLONNE DROITE -->
   <td valign="top" width="50%" align="center">
 
-## 🛠 Stack Technique
+## 🛠 Stack technique
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,angular&theme=dark" />
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,angular&theme=dark" alt="Frontend" /><br/>
+<sub>UI, responsive, logique applicative</sub>
+
 <br/>
-<sub><b>Frontend</b> — UI, responsive, logique applicative</sub>
 
-<br/><br/>
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,php&theme=dark" alt="Backend" /><br/>
+<sub>APIs REST, logique serveur</sub>
 
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=python,django,php&theme=dark" />
 <br/>
-<sub><b>Backend</b> — APIs REST, logique serveur</sub>
 
-<br/><br/>
+**Données & sécurité**<br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+<img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens" alt="JWT" />
+<img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat&logo=google&logoColor=white" alt="OAuth2" /><br/>
+<sub>JWT, OAuth Google, rôles d'accès</sub>
 
-<!-- Data & Auth -->
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-<img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens" />
-<img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat&logo=google&logoColor=white" />
 <br/>
-<sub><b>Données & Sécurité</b> — JWT, OAuth Google, rôles d'accès</sub>
 
-<br/><br/>
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,figma,idea,notion&theme=dark" />
-<br/>
-<sub><b>Outils</b> — Gestion de workflow & organisation</sub>
+**Outils**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,idea,notion&theme=dark" alt="Outils" /><br/>
+<sub>Workflow & organisation</sub>
 
   </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="footer" />
+
+</div>
