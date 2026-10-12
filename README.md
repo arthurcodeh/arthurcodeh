@@ -1,13 +1,9 @@
-<!-- ============================================================
-  ⚠️ Remplace TON-PSEUDO par ton pseudo GitHub (Ctrl+F → Remplacer tout)
-============================================================ -->
-
 <div align="center">
 
-<!-- 🌊 BANNIÈRE ANIMÉE : nom + fond dégradé -->
+<!-- BANNIÈRE ANIMÉE : nom + fond dégradé -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1d4ed8,100:06b6d4&height=320&section=header&text=Arthur%20D&fontSize=78&fontColor=ffffff&fontAlignY=36&desc=Étudiant%20en%20Développement%20d'Application%20•%20HELHa&descSize=22&descAlignY=58&animation=twinkling" alt="Arthur D" width="100%" />
 
-<!-- ⌨️ TEXTE QUI SE TAPE TOUT SEUL -->
+<!-- TEXTE QUI SE TAPE TOUT SEUL -->
 <a href="https://github.com/TON-PSEUDO">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=820&height=60&lines=Salut+%F0%9F%91%8B+moi+c'est+Arthur;Étudiant+à+la+HELHa+%F0%9F%8E%93;Je+code+des+applications+web+modernes+%F0%9F%9A%80;Angular+%7C+Django+%7C+PHP+%7C+MySQL;Mobile-first+%26+sécurisé+%F0%9F%94%90;Toujours+en+train+d'apprendre+%E2%9C%A8" alt="Typing SVG" />
 </a>
@@ -16,8 +12,9 @@
 
 <img src="https://img.shields.io/badge/HELHa-Développement%20d'application-1d4ed8?style=for-the-badge&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJs-Backend-092E20?style=for-the-badge&logo=NestJs&logoColor=white" />
 <img src="https://img.shields.io/badge/Mobile--First-Responsive-06b6d4?style=for-the-badge&logo=responsively&logoColor=white" />
+<img src="https://img.shields.io/badge/Mysql-BDD-9042f5?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br/><br/>
 </div>
